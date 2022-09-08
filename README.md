@@ -1,5 +1,5 @@
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=snaphat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaphat&theme=radical&layout=compact&exclude_repo=ff6recompress,ff6recompress-rs,AltimitMovement.js&langs_count=100&cache_seconds=7200&hide=tex,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=snaphat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=7200)](http://github-readme-stats-snaphat.vercel.app/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaphat&theme=radical&layout=compact&exclude_repo=ff6recompress,ff6recompress-rs,AltimitMovement.js&langs_count=100&cache_seconds=7200&hide=tex,makefile)](http://github-readme-stats-snaphat.vercel.app)
 
 🌱 See my [Starred repositories](https://github.com/snaphat?tab=stars) for curated lists of my projects
 
