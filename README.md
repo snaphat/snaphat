@@ -4,7 +4,7 @@
 
 🌱 See my [Starred repositories](https://github.com/snaphat?tab=stars) for curated lists of my projects
 </td>
-<td><picture><img align="center" src="https://github-readme-stats-git-main-snaphat.vercel.app/api/top-langs/?username=snaphat&disable_animations=true&theme=github_dark&layout=compact&exclude_repo=UnityPlugins,ff6recompress,ff6recompress-rs,AltimitMovement.js,SimpleGame,imgui_demo,github-readme-stats&langs_count=100&cache_seconds=0&hide=brainfuck" /></picture></td>
+<td><picture><img align="center" src="https://github-readme-stats-git-main-snaphat.vercel.app/api/top-langs/?username=snaphat&disable_animations=true&theme=github_dark&layout=compact&exclude_repo=UnityPlugins,ff6recompress,ff6recompress-rs,AltimitMovement.js,SimpleGame,imgui_demo,github-readme-stats&langs_count=100&cache_seconds=7200&hide=brainfuck" /></picture></td>
 </tr></table>
 
 <!--
