@@ -1,10 +1,10 @@
 <table><tr>
-<td><picture><img align="top" src="https://github-readme-stats-git-main-snaphat.vercel.app/api?username=snaphat&disable_animations=true&number_format&show_icons=true&rank_icon=percentile&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=7200)" /></picture>
+<td><img align="top" src="https://github-readme-stats-git-main-snaphat.vercel.app/api?username=snaphat&disable_animations=true&number_format&show_icons=true&rank_icon=percentile&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=7200)" />
 <br /><br />
 
 🌱 See my [Starred repositories](https://github.com/snaphat?tab=stars) for curated lists of my projects
 </td>
-<td><picture><img align="center" src="https://github-readme-stats-git-main-snaphat.vercel.app/api/top-langs/?username=snaphat&disable_animations=true&theme=github_dark&layout=compact&exclude_repo=UnityPlugins,ff6recompress,ff6recompress-rs,AltimitMovement.js,SimpleGame,imgui_demo,github-readme-stats&langs_count=100&cache_seconds=7200&hide=brainfuck" /></picture></td>
+<td><img align="center" src="https://github-readme-stats-git-main-snaphat.vercel.app/api/top-langs/?username=snaphat&disable_animations=true&theme=github_dark&layout=compact&exclude_repo=UnityPlugins,ff6recompress,ff6recompress-rs,AltimitMovement.js,SimpleGame,imgui_demo,github-readme-stats&langs_count=100&cache_seconds=7200&hide=brainfuck" /></td>
 </tr></table>
 
 <!--
