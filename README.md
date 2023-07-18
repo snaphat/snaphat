@@ -2,14 +2,14 @@
   <tr>
     <td>
       <a href="#">
-        <img align="top" src="https://github-readme-stats-git-main-snaphat.vercel.app/api?username=snaphat&disable_animations=true&number_format&show_icons=true&rank_icon=percentile&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=7200)" />
+        <img align="top" src="https://github-readme-stats-git-main-snaphat.vercel.app/api?username=snaphat&disable_animations=true&number_format&show_icons=true&rank_icon=percentile&theme=transparent&include_all_commits=true&count_private=true&cache_seconds=7200)" />
       </a>
       <br /><br />
       🌱 See my <a href="https://github.com/snaphat?tab=stars">Starred repositories</a> for curated lists of my projects
     </td>
     <td>
       <a href="#">
-        <img align="center" src="https://github-readme-stats-git-main-snaphat.vercel.app/api/top-langs/?username=snaphat&disable_animations=true&theme=github_dark&layout=compact&exclude_repo=UnityPlugins,ff6recompress,ff6recompress-rs,AltimitMovement.js,SimpleGame,imgui_demo,github-readme-stats&langs_count=100&cache_seconds=7200&hide=brainfuck" />
+        <img align="center" src="https://github-readme-stats-git-main-snaphat.vercel.app/api/top-langs/?username=snaphat&disable_animations=true&theme=transparent&layout=compact&exclude_repo=UnityPlugins,ff6recompress,ff6recompress-rs,AltimitMovement.js,SimpleGame,imgui_demo,github-readme-stats&langs_count=100&cache_seconds=7200&hide=brainfuck" />
       </a>
     </td>
   </tr>
